@@ -10,11 +10,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Log Page 
+
 <img width="959" alt="node red1" src="https://user-images.githubusercontent.com/101011054/201967310-b354f36e-2150-4276-9cf9-e0af3f992a68.png">
 
 <p>&nbsp;</p>
 
 
 * View Bin Status
-![node red dashboard_page-0001](https://user-images.githubusercontent.com/101011054/201967744-edeb6eea-c069-4926-81b6-f99dac589dfc.jpg)
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/101011054/201968152-e78ed8bd-fe76-4d4f-ad67-c570c3a1bfda.png">
+
 <p>&nbsp;</p>
