@@ -16,7 +16,7 @@
 
 <p>&nbsp;</p>
 
-#### Data transmission of Sensor from bin 
+### Data transmission of Sensor from bin 
 <img width="954" alt="ibm cloud4" src="https://user-images.githubusercontent.com/101011054/201962512-45beaed7-3004-416b-9dd4-1a979be07aed.png">
 
 ### JSON Format of Data Storage
