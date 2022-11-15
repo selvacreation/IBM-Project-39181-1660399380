@@ -21,3 +21,5 @@
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/101011054/201968152-e78ed8bd-fe76-4d4f-ad67-c570c3a1bfda.png">
 
 <p>&nbsp;</p>
+
+* Web UI Link : https://node-red-wjldy-2022-11-05.au-syd.mybluemix.net/ui/#!/0?socketid=1zeC7hYFy4MkO5NCAAAV
