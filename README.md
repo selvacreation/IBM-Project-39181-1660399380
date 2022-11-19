@@ -1,7 +1,7 @@
 # :crystal_ball: INTRODUCTION
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
-](https://www.youtube.com/watch?v=qPJWVnoepYM)              [![icons8-check-file-64](https://user-images.githubusercontent.com/101011054/202830957-f2152aa9-76e8-4616-9586-3639c3f3b26f.png)
+](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;          [![icons8-check-file-64](https://user-images.githubusercontent.com/101011054/202830957-f2152aa9-76e8-4616-9586-3639c3f3b26f.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
