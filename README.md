@@ -1,7 +1,7 @@
 # :crystal_ball: INTRODUCTION
 
 [![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
-](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;   &ensp;       [![icons8-pdf](https://user-images.githubusercontent.com/101011054/202832546-695a3ee8-8663-4d5d-bfe6-5e6706c508d8.gif)
+](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;   &ensp;       [![icons8-document-94](https://user-images.githubusercontent.com/101011054/202832580-0eeae703-54a0-4a6e-a4e7-329ed5f3163b.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
  &ensp; &ensp; [![icons8-file-elements-64](https://user-images.githubusercontent.com/101011054/202831327-f673b307-06da-4015-bcfd-8c3a466bc34f.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/tree/main/Project%20and%20Planning/Project%20Design%20%26%20Planning)
