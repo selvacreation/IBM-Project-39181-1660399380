@@ -9,9 +9,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- | :mortar_board:  TEAM MEMBERS  |                                |  COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY |                                       
- |-------------------------------|                                | TEAM MENTOR : Mrs.SASIKALA T S                              |
- |         ASHRITHA H A          |                                |COLLEGE SPOC : Mrs.JOTHILAKSHMI S L                          |
+ | :mortar_board:  TEAM MEMBERS  |                                                              
+ |-------------------------------|                               
+ |         ASHRITHA H A          |                                
  |         AKASH K B             |
  |         ASHIK SINHA J         |
  |         GOHUL J P             |
