@@ -18,9 +18,9 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------   
   
- #### _ COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY  
+ #### COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY  
  #### TEAM MENTOR : Mrs.SASIKALA T S                              
- #### COLLEGE SPOC : Mrs.JOTHILAKSHMI S L _                      
+ #### COLLEGE SPOC : Mrs.JOTHILAKSHMI S L                       
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   # Layout Model
