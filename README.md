@@ -7,7 +7,7 @@
 ](https://wokwi.com/projects/347376419979919956)
 
 
-#### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES  &ensp;   &ensp;   &ensp;   &ensp;   &ensp;            DOMAIN : INTERNET OF THINGS (IOT)
+#### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES  &ensp;   &ensp;   &ensp;   &ensp;   &ensp;  &emsp;   &emsp;          DOMAIN : INTERNET OF THINGS (IOT)
 #### TEAM ID : PNT2022TMID51935      &emsp;   &emsp;     &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp;    BATCH NO : B7-1A3E 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
