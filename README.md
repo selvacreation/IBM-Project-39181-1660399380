@@ -2,8 +2,8 @@
 
 [![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
 ](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;   &ensp;      
-[![icons8-document-94](https://user-images.githubusercontent.com/101011054/202832580-0eeae703-54a0-4a6e-a4e7-329ed5f3163b.png)]
-(https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
+[![icons8-document-94](https://user-images.githubusercontent.com/101011054/202832580-0eeae703-54a0-4a6e-a4e7-329ed5f3163b.png)
+](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
  &ensp; &ensp; [![icons8-document-65](https://user-images.githubusercontent.com/101011054/202832684-9b4374e2-4f6b-4aca-974d-55532996d266.png)
 
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/tree/main/Project%20and%20Planning/Project%20Design%20%26%20Planning)
