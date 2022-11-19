@@ -3,13 +3,13 @@
 [![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
 ](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;   &ensp;       [![icons8-check-file-64](https://user-images.githubusercontent.com/101011054/202830957-f2152aa9-76e8-4616-9586-3639c3f3b26f.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
-[] &ensp; &ensp; [![icons8-file-elements-64](https://user-images.githubusercontent.com/101011054/202831327-f673b307-06da-4015-bcfd-8c3a466bc34f.png)
+ &ensp; &ensp; [![icons8-file-elements-64](https://user-images.githubusercontent.com/101011054/202831327-f673b307-06da-4015-bcfd-8c3a466bc34f.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/tree/main/Project%20and%20Planning/Project%20Design%20%26%20Planning)
 
-## _SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
-## DOMAIN : INTERNET OF THINGS (IOT)
-## BATCH NO : B7-1A3E 
-## TEAM ID : PNT2022TMID51935_
+#### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
+#### DOMAIN : INTERNET OF THINGS (IOT)
+#### BATCH NO : B7-1A3E 
+#### TEAM ID : PNT2022TMID51935_
 
 
 
