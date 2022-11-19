@@ -18,12 +18,13 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------   
   
-  | COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY  |
-  | TEAM MENTOR : Mrs.SASIKALA T S                              |
-  | COLLEGE SPOC : Mrs.JOTHILAKSHMI S L                         |
+ #### _COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY  
+ #### TEAM MENTOR : Mrs.SASIKALA T S                              
+ #### COLLEGE SPOC : Mrs.JOTHILAKSHMI S L_                      
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   # Layout Model
    
 <p>&nbsp;</p>
+
 <img width="364" alt="image" src="https://user-images.githubusercontent.com/101011054/200350245-817ac2e1-5a99-403b-a0fa-189e0e78be7e.png">
