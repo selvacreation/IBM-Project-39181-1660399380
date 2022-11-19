@@ -6,10 +6,9 @@
  &ensp; &ensp; [![icons8-file-elements-64](https://user-images.githubusercontent.com/101011054/202831327-f673b307-06da-4015-bcfd-8c3a466bc34f.png)
 ](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/tree/main/Project%20and%20Planning/Project%20Design%20%26%20Planning)
 
-#### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
-#### DOMAIN : INTERNET OF THINGS (IOT)
-#### BATCH NO : B7-1A3E 
-#### TEAM ID : PNT2022TMID51935_
+#### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES  &ensp;   &ensp;          #### DOMAIN : INTERNET OF THINGS (IOT)
+#### TEAM ID : PNT2022TMID51935                              &ensp;   &ensp;          #### BATCH NO : B7-1A3E 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
