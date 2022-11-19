@@ -1,23 +1,18 @@
 # :crystal_ball: INTRODUCTION
 
-<html>
-  <body style="background-color:powderblue;">
-    <h1> IBM-Project-39181-1660399380 </h1>
-    <h2> SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES </h2>
-    <h3> DOMAIN : INTERNET OF THINGS (IOT) </h3>
-    <h3> BATCH NO : B7-1A3E </h3>
-    <h3> TEAM ID : PNT2022TMID51935 </h3>
-    <p>
-      <a href="https://thumbs.gfycat.com/HoarseAcidicEwe-mobile.mp4"></a></p>
-    <h3> TEAM MEMBERS : </h3>
-    <p style="color:blue;">
-        <ol>
-            <li>ASHRITHA H A</li>
-            <li>AKASH K B</li>
-            <li>ASHIK SINHA J</li>
-            <li>GOHUL J P</li>
-        </ol>
-    </p>
+## SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES 
+## DOMAIN : INTERNET OF THINGS (IOT)
+## BATCH NO : B7-1A3E 
+## TEAM ID : PNT2022TMID51935 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | :mortar_board:  TEAM MEMBERS  |
+ |-------------------------------|
+ |         ASHRITHA H A          |
+ |         AKASH K B             |
+ |         ASHIK SINHA J         |
+ |         GOHUL J P             |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
     <h4> COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY</h4>
     <h4> TEAM MENTOR : Mrs.SASIKALA T S </h4>
     <h4> COLLEGE SPOC : Mrs.JOTHILAKSHMI S L </h4>
