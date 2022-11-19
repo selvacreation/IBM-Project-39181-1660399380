@@ -8,7 +8,7 @@
 
 
 #### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES  &ensp;   &ensp;   &ensp;   &ensp;   &ensp;            DOMAIN : INTERNET OF THINGS (IOT)
-#### TEAM ID : PNT2022TMID51935      &emsp;   &emsp;     &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;         BATCH NO : B7-1A3E 
+#### TEAM ID : PNT2022TMID51935      &emsp;   &emsp;     &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;  &emsp;   &emsp;       BATCH NO : B7-1A3E 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
