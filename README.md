@@ -1,6 +1,7 @@
 # :crystal_ball: INTRODUCTION
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[:video_camera:](https://www.youtube.com/watch?v=qPJWVnoepYM)
+[![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
+](https://www.youtube.com/watch?v=qPJWVnoepYM)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## _SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
