@@ -2,6 +2,8 @@
 
 [![icons8-video-gallery-48](https://user-images.githubusercontent.com/101011054/202830849-1fdfe83b-df5e-44ee-aacd-93439c2aeecf.png)
 ](https://www.youtube.com/watch?v=qPJWVnoepYM)    &ensp;   &ensp;      
+[![icons8-document-65](https://user-images.githubusercontent.com/101011054/202832788-9c01fecf-7f6f-42b2-b93c-614312bc1ae3.png)
+](https://github.com/IBM-EPBL/IBM-Project-39181-1660399380/blob/main/Final%20Deliverables/Reports/Final%20Report.pdf)
 
 
 #### SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES  &ensp;   &ensp;   &ensp;   &ensp;   &ensp;            DOMAIN : INTERNET OF THINGS (IOT)
