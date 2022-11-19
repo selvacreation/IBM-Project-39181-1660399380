@@ -1,23 +1,26 @@
 # :crystal_ball: INTRODUCTION
-
-## SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES 
-## DOMAIN : INTERNET OF THINGS (IOT)
-## BATCH NO : B7-1A3E 
-## TEAM ID : PNT2022TMID51935 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- | :mortar_board:  TEAM MEMBERS  |
- |-------------------------------|
- |         ASHRITHA H A          |
+## _SMART WASTE MANAGEMENT SYSTEMS FOR METROPOLITAN CITIES
+## DOMAIN : INTERNET OF THINGS (IOT)
+## BATCH NO : B7-1A3E 
+## TEAM ID : PNT2022TMID51935_
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ | :mortar_board:  TEAM MEMBERS  |                                |  COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY |                                       
+ |-------------------------------|                                | TEAM MENTOR : Mrs.SASIKALA T S                              |
+ |         ASHRITHA H A          |                                |COLLEGE SPOC : Mrs.JOTHILAKSHMI S L                          |
  |         AKASH K B             |
  |         ASHIK SINHA J         |
  |         GOHUL J P             |
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------           
-    <h4> COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY</h4>
-    <h4> TEAM MENTOR : Mrs.SASIKALA T S </h4>
-    <h4> COLLEGE SPOC : Mrs.JOTHILAKSHMI S L </h4>
-  </body>
-  </html>
+  |  COLLEGE NAME : AMRITA COLLEGE OF ENGIEERING AND TECHNOLOGY |
+  | TEAM MENTOR : Mrs.SASIKALA T S                              |
+  |COLLEGE SPOC : Mrs.JOTHILAKSHMI S L                          |
+ 
   
   # Layout Model
    
